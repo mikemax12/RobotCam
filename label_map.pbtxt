@@ -1,0 +1,12 @@
+item { 
+	name:'plastic'
+	id:1
+}
+item { 
+	name:'foodwaste'
+	id:2
+}
+item { 
+	name:'metal'
+	id:3
+}
